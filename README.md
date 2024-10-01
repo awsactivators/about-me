@@ -63,8 +63,9 @@ This is a repository for hosting on GitHub pages
 
 The URL will be:
 
-    ```
-    http://<GITHUB_USERNAME>.github.io/<REPO_NAME>
-    ```
+```
+http://<GITHUB_USERNAME>.github.io/<REPO_NAME>
+```
+
 
 
